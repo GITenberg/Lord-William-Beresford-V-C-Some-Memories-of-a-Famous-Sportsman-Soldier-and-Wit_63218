@@ -1,11 +1,16 @@
 _repo: Lord-William-Beresford-V-C-Some-Memories-of-a-Famous-Sportsman-Soldier-and-Wit_63218
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 63218-h/images/cover.jpg
 creator:
   author:
     agent_name: Menzies, Mrs. Stuart
     gutenberg_agent_id: '52333'
     url: http://www.gutenberg.org/2009/agents/52333
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/63218#Lord-William-Beresford-V-C-Some-Memories-of-a-Famous-Sportsman-Soldier-and-Wit
 gutenberg_issued: '2020-09-17'
 gutenberg_type: Text
 identifiers:
